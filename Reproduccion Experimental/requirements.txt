@@ -1,0 +1,16 @@
+# Manipulación y Análisis de Datos
+pandas
+numpy
+
+# Machine Learning y Deep Learning
+scikit-learn
+tensorflow
+keras
+
+# Inteligencia Artificial Explicable (XAI)
+lime
+shap
+
+# Visualización de Datos
+matplotlib
+seaborn
